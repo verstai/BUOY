@@ -1,0 +1,5 @@
+{
+    "require": {
+        "shopifyextras/shopify-php-api-wrapper": "^1.1"
+    }
+}
